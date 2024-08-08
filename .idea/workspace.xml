@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fb01f19-d3d0-4635-b2d3-37f4214635d4" name="Changes" comment="Selenium learning">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swathi/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/EdgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab301_SeleniumFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab302_DynamicDispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab303_TypesOfWebDrivers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab304_Selenium3vs4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab305_WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab306Quit_vs_Close.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab307_get_vs_navigate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab308.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_308.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2kMcyxPs8qGASwD55Sh4Mj7X0ll" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EdgeTest.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Lab304_Selenium3vs4.executor": "Run",
+    "Application.Lab305.executor": "Run",
+    "Application.Lab306.executor": "Run",
+    "Application.Lab306Quit_vs_Close.executor": "Run",
+    "Application.Lab307.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.D:/INTELLiJ_Workspace/LearningSELENIUM/testng.xml.executor": "Run",
+    "TestNG.D:/INTELLiJ_Workspace/LearningSELENIUM/testng_308.xml.executor": "Run",
+    "TestNG.Lab301.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/INTELLiJ_Workspace/LearningSELENIUM"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\INTELLiJ_Workspace\LearningSELENIUM" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/INTELLiJ_Workspace/LearningSELENIUM/testng_308.xml">
+    <configuration name="Lab304_Selenium3vs4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_Selenium.Lab304_Selenium3vs4" />
+      <module name="LearningSELENIUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swathi.ex_Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab305_WebDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_Selenium.Lab305_WebDriver" />
+      <module name="LearningSELENIUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swathi.ex_Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab306Quit_vs_Close" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_Selenium.Lab306Quit_vs_Close" />
+      <module name="LearningSELENIUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swathi.ex_Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab307_get_vs_navigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_Selenium.Lab307_get_vs_navigate" />
+      <module name="LearningSELENIUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swathi.ex_Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/INTELLiJ_Workspace/LearningSELENIUM/testng_308.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSELENIUM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_308.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/INTELLiJ_Workspace/LearningSELENIUM/testng_308.xml" />
+        <item itemvalue="Application.Lab304_Selenium3vs4" />
+        <item itemvalue="Application.Lab306Quit_vs_Close" />
+        <item itemvalue="Application.Lab307_get_vs_navigate" />
+        <item itemvalue="Application.Lab305_WebDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fb01f19-d3d0-4635-b2d3-37f4214635d4" name="Changes" comment="" />
+      <created>1723097146647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723097146647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium learning" />
+  </component>
+</project>
