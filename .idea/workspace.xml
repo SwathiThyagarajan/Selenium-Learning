@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fb01f19-d3d0-4635-b2d3-37f4214635d4" name="Changes" comment="Selenium learning">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swathi/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/EdgeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab301_SeleniumFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab302_DynamicDispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab303_TypesOfWebDrivers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab304_Selenium3vs4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab305_WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab306Quit_vs_Close.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab307_get_vs_navigate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_Selenium/Lab308.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_308.xml" afterDir="false" />
+    <list default="true" id="5fb01f19-d3d0-4635-b2d3-37f4214635d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +140,15 @@
       <option name="presentableId" value="Default" />
       <updated>1723097146647</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selenium learning">
+      <option name="closed" value="true" />
+      <created>1723116605132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723116605132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
