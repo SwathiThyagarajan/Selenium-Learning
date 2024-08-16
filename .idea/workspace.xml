@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fb01f19-d3d0-4635-b2d3-37f4214635d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/Project1_vwoAutomation/LoginSuccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/Project2_CURAppointment/Make_Appointment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/Project3_idrive360FreeTrial/Trial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_13July/Lab309_edgeOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_13July/Lab310_PageLoadStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_13July/Lab311_PageLoadStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_13July/Lab312.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_13July/Lab313.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_13July/Lab314.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_13July/Lab315.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_16July/Lab316_XPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_18July/Lab317_CSS_Selectors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_18July/Lab318.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_18July/Lab319_ImplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_20July/Lab320_ExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_20July/Lab321.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_20July/Lab322_FluentWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_20July/Lab323_SelectBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_20July/Lab324_JavaScriptAlerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_20July/Lab325_CheckBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_20July/Lab326_WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_20July/waitHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_23July/Lab327_DynamicTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +65,8 @@
     "TestNG.Lab324_JavaScriptAlerts.executor": "Run",
     "TestNG.Lab325_CheckBoxes.executor": "Run",
     "TestNG.Lab326_WebTables.executor": "Run",
+    "TestNG.Lab327_DynamicTables.executor": "Run",
+    "TestNG.Lab327_DynamicTables.testDynamicTable.executor": "Run",
     "TestNG.LoginSuccess.executor": "Run",
     "TestNG.Make_Appointment.executor": "Run",
     "TestNG.Trial.executor": "Run",
@@ -99,41 +80,7 @@
       <recent name="D:\INTELLiJ_Workspace\LearningSELENIUM" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lab326_WebTables">
-    <configuration name="Lab321" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSELENIUM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.swathi.ex_20July.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.swathi.ex_20July" />
-      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_20July.Lab321" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab323_SelectBox" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSELENIUM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.swathi.ex_20July.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.swathi.ex_20July" />
-      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_20July.Lab323_SelectBox" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Lab327_DynamicTables.testDynamicTable">
     <configuration name="Lab324_JavaScriptAlerts" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSELENIUM" />
       <extension name="coverage">
@@ -185,13 +132,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab327_DynamicTables" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSELENIUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swathi.ex_23July.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.swathi.ex_23July" />
+      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_23July.Lab327_DynamicTables" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab327_DynamicTables.testDynamicTable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSELENIUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swathi.ex_23July.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.swathi.ex_23July" />
+      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_23July.Lab327_DynamicTables" />
+      <option name="METHOD_NAME" value="testDynamicTable" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Lab327_DynamicTables.testDynamicTable" />
+        <item itemvalue="TestNG.Lab327_DynamicTables" />
         <item itemvalue="TestNG.Lab326_WebTables" />
         <item itemvalue="TestNG.Lab325_CheckBoxes" />
         <item itemvalue="TestNG.Lab324_JavaScriptAlerts" />
-        <item itemvalue="TestNG.Lab323_SelectBox" />
-        <item itemvalue="TestNG.Lab321" />
       </list>
     </recent_temporary>
   </component>
