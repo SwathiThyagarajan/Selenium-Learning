@@ -75,5 +75,10 @@ public class Lab329 {
         driver.quit();
     }
 
+    // name() this is a xpath function
+    // the xpath functions that we will use are -> contains(), id(),
+    // local-name(), and name() for svg
+    // normalize-space, start-with
+
 
 }
