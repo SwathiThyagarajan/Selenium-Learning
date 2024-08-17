@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fb01f19-d3d0-4635-b2d3-37f4214635d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_23July/Lab327_DynamicTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_23July/Lab328_SVG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_23July/Lab329.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_23July/Project_OrangeHRM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/swathi/ex_23July/Lab327_DynamicTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/swathi/ex_23July/Lab327_DynamicTables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SwathiThyagarajan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SwathiThyagarajan/Selenium-Learning.git&quot;,
+    &quot;accountId&quot;: &quot;a415c98e-2230-4eb9-80f4-8fec8d9e8eaf&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -67,6 +82,8 @@
     "TestNG.Lab326_WebTables.executor": "Run",
     "TestNG.Lab327_DynamicTables.executor": "Run",
     "TestNG.Lab327_DynamicTables.testDynamicTable.executor": "Run",
+    "TestNG.Lab328_SVG.executor": "Run",
+    "TestNG.Lab329.executor": "Run",
     "TestNG.LoginSuccess.executor": "Run",
     "TestNG.Make_Appointment.executor": "Run",
     "TestNG.Trial.executor": "Run",
@@ -80,41 +97,7 @@
       <recent name="D:\INTELLiJ_Workspace\LearningSELENIUM" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lab327_DynamicTables.testDynamicTable">
-    <configuration name="Lab324_JavaScriptAlerts" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSELENIUM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.swathi.ex_20July.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.swathi.ex_20July" />
-      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_20July.Lab324_JavaScriptAlerts" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab325_CheckBoxes" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSELENIUM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.swathi.ex_20July.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.swathi.ex_20July" />
-      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_20July.Lab325_CheckBoxes" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Lab329">
     <configuration name="Lab326_WebTables" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSELENIUM" />
       <extension name="coverage">
@@ -167,13 +150,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab328_SVG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSELENIUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swathi.ex_23July.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.swathi.ex_23July" />
+      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_23July.Lab328_SVG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab329" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSELENIUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swathi.ex_23July.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.swathi.ex_23July" />
+      <option name="MAIN_CLASS_NAME" value="com.swathi.ex_23July.Lab329" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Lab329" />
+        <item itemvalue="TestNG.Lab328_SVG" />
         <item itemvalue="TestNG.Lab327_DynamicTables.testDynamicTable" />
         <item itemvalue="TestNG.Lab327_DynamicTables" />
         <item itemvalue="TestNG.Lab326_WebTables" />
-        <item itemvalue="TestNG.Lab325_CheckBoxes" />
-        <item itemvalue="TestNG.Lab324_JavaScriptAlerts" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723116605132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Selenium learning">
+      <option name="closed" value="true" />
+      <created>1723820852971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723820852971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

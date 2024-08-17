@@ -46,11 +46,11 @@ public class Lab327_DynamicTables {
         // Alternatively we can also use //table[@summary="Sample Table"]/tbody/tr/td
         // since summary="Sample Table" is a custom locator we can use this
 
-        // This will give u the table
+        // This will give u the table, 1st find the table
         WebElement dynamicTable = driver.findElement(By.xpath("//table[@summary=\"Sample Table\"]/tbody"));
-        // we have list of web elements ie; rows of a table
+        // we have list of web elements ie; rows of a table, from the table we can find rows
         List<WebElement> rows_table = dynamicTable.findElements(By.tagName("tr"));
-        System.out.println(rows_table.size());
+        System.out.println(rows_table.size());// finding the size
         // printing the table data using for loop
         for (int i = 2; i < rows_table.size(); i++) {
             // from the rows I want to get columns
@@ -71,6 +71,8 @@ public class Lab327_DynamicTables {
 
             // to find the cell
             // I can use this xpath -> //div[@class='oxd-table-body']/div[@class='oxd-table-row']/
+
+            // you can find this question related to web table in sedt.club docs Automation - web tables
 
 
         }
