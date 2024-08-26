@@ -1,0 +1,1 @@
+{"uuid":"f77daeb4-9c35-4f4e-a5b3-fcdad44531a8","name":"LearningSELENIUM","children":["f84a0dc2-18f8-4922-9ecc-8c1d8ea668b4"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724676378244,"stop":1724676380793}],"afters":[],"start":1724676378188,"stop":1724676381809}

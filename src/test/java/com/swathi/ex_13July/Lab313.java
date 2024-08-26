@@ -98,7 +98,8 @@ public class Lab313 {
 
         // Verify the error messsage
   //      WebElement errorMessage  = driver.findElement(By.id("js-notification-box-msg"));
-         WebElement errorMessage = driver.findElement(By.className("notification-box-description")); // I can use class name also in BY. function
+         WebElement errorMessage = driver.findElement(By.className("notification-box-description"));
+        // I can use class name also in BY. function
          Assert.assertEquals(errorMessage.getText(),"Your email, password, IP address or location did not match");
          // now I want to assert the error message
 

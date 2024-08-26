@@ -14,23 +14,37 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 public class Lab328_SVG {
-//
-//    What is SVG - Scalable Vector Graphics to define graphics for web.
-//    XML based language to create 2-D graphics/images with animation and interactivity.
-//    Uses geometrical figures to draw an image.
-//    <svg> tag is used as a container for SVG graphics.
+
+/*
+   Image Types Extension - W3 > png, jpeg, svg.
+SVG - Scalable Vector Graphics - How to Handle them in the Selenium Script?
+
+Problem #1 > Search for the macmini in the Flipkart.com and click on the search icon svg.
+
+Problem #2 -> open the map application of svg india map find the tripura and click on it.
+
+. Xpath function > // local-name() or name() - this can find the SVG elements.( nothing else
+works in case of svg apart from these 2 functions)
+
+ What is SVG - Scalable Vector Graphics to define graphics for web.
+    XML based language to create 2-D graphics/images with animation and interactivity.
+    Uses geometrical figures to draw an image.
+    <svg> tag is used as a container for SVG graphics.
 
 
-    // SVG examples
-    // If u go to Flipkart the search icon shown in search bar is an SVG
+     SVG examples
+     If u go to Flipkart the search icon shown in search bar is an SVG
 
-    // SVG uses less storage while compared to PNG and JPEG
-    // In PNG if u zoom the image the clarity will decrease in SVG clarity will not decrease
-    // SVG works with a tag which is SVG and path, circle, polygon
-    // Generally we will find that SVG is containing path with -> g -> to create the shapes
+     SVG uses less storage while compared to PNG and JPEG
+     In PNG if u zoom the image the clarity will decrease in SVG clarity will not decrease
+     SVG works with a tag which is SVG and path, circle, polygon
+     Generally we will find that SVG is containing path with -> g -> to create the shapes
 
-    // By using SVG people have created Map of India
+     By using SVG people have created Map of India
 
+
+
+*/
     // Problem -- 1 --> I want to search macmini and click on search icon and see the results
     // Go to Flipkart type macmini -> Inspect element
     // to type macmini in selenium I must know the locator check whether there is any unique locator for
@@ -67,6 +81,12 @@ public class Lab328_SVG {
         driver.findElement(By.name("q")).sendKeys("macmini");
         List<WebElement> SVGelements = driver.findElements(By.xpath("//*[local-name()='svg']"));
         SVGelements.get(0).click();
+
+        // Interview Question
+        // Open Flipkart in Inspect xpath  of Electronics it will show a span class
+        // without using span tag give the xpath
+
+        // Answer-->  //*[text()='Electronics']
 
 
 

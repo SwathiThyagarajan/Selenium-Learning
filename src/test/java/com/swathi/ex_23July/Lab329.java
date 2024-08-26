@@ -54,9 +54,15 @@ public class Lab329 {
         for (WebElement state : states) {// from states I want state
             System.out.println(state.getAttribute("aria-label"));
             // I can use Aria-label attribute which gives name of all the state
-            if (state.getAttribute("aria-label").contains("Tripura")){
+            if (state.getAttribute("aria-label").contains("Tripura  ")){
                 state.click();
+                break;
                 // if my state.getAttribute of aria-label contains Tripura then click on it
+
+
+                // The testcase is failing because when this URL opens there is a cookie pop up
+                // asking u to click on I agree which is giving error.
+                // This can be handled by Action classes
 
 
             }
@@ -68,7 +74,7 @@ public class Lab329 {
     public void closeBrowser(){
 
         try {
-            Thread.sleep(4000);
+            Thread.sleep(20000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
