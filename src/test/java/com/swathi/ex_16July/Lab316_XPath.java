@@ -110,7 +110,7 @@ public class Lab316_XPath {
 3.  By Partial Text if Class Name is also not available.
         WebElement btnElement_PTEXT = driver.findElement(By.partialLinkText("Make"));
 4.  By using full Link Text
-        WebElement btnElement_LTEXT = driver.findElement(By.partialLinkText("Make Appointment"));
+        WebElement btnElement_LTEXT = driver.findElement(By.linkText("Make Appointment"));
 5.  By suppose if all of the above 4 are not available. then u can use xpath with href
         WebElement btnElement_AT = driver.findElement(By.xpath("//a[@href='./profile.php#login']"));
 
@@ -144,6 +144,21 @@ public class Lab316_XPath {
           2.   Axes
           we can use Multiple Attributes in xpath - to make it unique
      6)   Css Selectors
+
+     Locating Web Elements
+To interact with web elements on a webpage, you need to locate them first.
+Selenium provides several strategies for locating elements, including:
+
+
+By ID: driver.findElement(By.id("elementId"))
+By Name: driver.findElement(By.name("elementName"))
+By Class Name: driver.findElement(By.className("className"))
+By Tag Name: driver.findElement(By.tagName("tagName"))
+By Link Text: driver.findElement(By.linkText("linkText"))
+By Partial Link Text: driver.findElement(By.partialLinkText("partialLinkText"))
+By CSS Selector: driver.findElement(By.cssSelector("cssSelector"))
+By XPath: driver.findElement(By.xpath("xpathExpression"))
+
 
 
     7.     In the xpath instead of input I can use *
